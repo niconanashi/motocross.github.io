@@ -30,3 +30,7 @@ body {
 #container canvas {
 	background-size: contain;
 }
+html, body, #container, canvas {
+	background: transparent !important;
+	background-color: rgba(0, 0, 0, 0) !important;
+}
