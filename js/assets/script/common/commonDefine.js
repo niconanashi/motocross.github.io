@@ -7,7 +7,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var commonDefine;
 (function (commonDefine) {
     /** 背景透過部分の黒アルファの不透明度 */
-    commonDefine.BG_SHADE_OPACITY = 0.7;
+    commonDefine.BG_SHADE_OPACITY = 0.1;
     /** デバッグ用：タイトル画面/説明画面をスキップするフラグ */
     commonDefine.DEBUG_SKIP_PREGAMESUBSCENE = false;
     /**
